@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/404Group.iml" filepath="$PROJECT_DIR$/404Group.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/charting-release/charting-release.iml" filepath="$PROJECT_DIR$/charting-release/charting-release.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core-release/core-release.iml" filepath="$PROJECT_DIR$/core-release/core-release.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-release/data-release.iml" filepath="$PROJECT_DIR$/data-release/data-release.iml" />
+      <module fileurl="file://$PROJECT_DIR$/drawing-release/drawing-release.iml" filepath="$PROJECT_DIR$/drawing-release/drawing-release.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extensions-release/extensions-release.iml" filepath="$PROJECT_DIR$/extensions-release/extensions-release.iml" />
+    </modules>
+  </component>
+</project>

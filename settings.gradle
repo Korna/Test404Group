@@ -1,0 +1,1 @@
+include ':app', ':charting-release', ':core-release', ':data-release', ':drawing-release', ':extensions-release'
